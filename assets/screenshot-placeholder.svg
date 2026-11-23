@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Starfall screenshot placeholder</title>
+  <desc id="desc">An original preview illustration of the Starfall game page. Replace it with a gameplay screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111432"/><stop offset="1" stop-color="#080d20"/></linearGradient>
+    <radialGradient id="nebula"><stop stop-color="#735db8" stop-opacity=".35"/><stop offset="1" stop-color="#735db8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#1a2041" stop-opacity=".96"/><stop offset="1" stop-color="#0f152d" stop-opacity=".96"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="675" rx="28" fill="url(#bg)"/>
+  <ellipse cx="880" cy="240" rx="400" ry="270" fill="url(#nebula)"/>
+  <g fill="#dfe3ff" opacity=".6">
+    <circle cx="136" cy="140" r="2"/><circle cx="245" cy="99" r="1.5"/><circle cx="1023" cy="135" r="2"/><circle cx="1112" cy="281" r="1.6"/><circle cx="188" cy="400" r="1.5"/><circle cx="1030" cy="508" r="2"/><circle cx="430" cy="460" r="1.3"/><circle cx="774" cy="128" r="1.5"/>
+  </g>
+  <rect x="76" y="56" width="1048" height="563" rx="20" fill="#0e152c" stroke="#bdbdff" stroke-opacity=".16"/>
+  <text x="110" y="105" fill="#f4f1ff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">✦  STARFALL</text>
+  <text x="1090" y="104" text-anchor="end" fill="#aaa8c5" font-family="Arial,sans-serif" font-size="13">A little cosmic catch</text>
+  <text x="600" y="171" text-anchor="middle" fill="#a59aff" font-family="monospace" font-size="12" letter-spacing="3">ARCADE · ENDLESS · ONE MORE TRY</text>
+  <text x="600" y="216" text-anchor="middle" fill="#f4f1ff" font-family="Arial,sans-serif" font-size="37" font-weight="600">Catch a little <tspan fill="#ffdf88">stardust.</tspan></text>
+  <rect x="125" y="244" width="950" height="325" rx="14" fill="#10152e" stroke="#bdbdff" stroke-opacity=".2"/>
+  <path d="M126 260a16 16 0 0 1 16-16h918a16 16 0 0 1 16 16v38H126z" fill="#171f3b"/>
+  <text x="154" y="280" fill="#ffdf88" font-family="monospace" font-size="15">SCORE  0040</text>
+  <text x="600" y="280" text-anchor="middle" fill="#94f2da" font-family="monospace" font-size="13">SHOWER  01</text>
+  <text x="1047" y="280" text-anchor="end" fill="#dcd9ff" font-family="monospace" font-size="14">BEST  0130</text>
+  <rect x="126" y="298" width="948" height="270" fill="#10152e"/>
+  <g fill="#c9ceff" opacity=".7"><circle cx="210" cy="354" r="2"/><circle cx="343" cy="479" r="1.5"/><circle cx="920" cy="351" r="2"/><circle cx="1002" cy="503" r="1.5"/><circle cx="470" cy="331" r="1.5"/><circle cx="760" cy="530" r="2"/></g>
+  <g filter="url(#glow)" fill="#ffe38a"><path d="m352 372 5 13 14 1-11 8 4 13-12-8-11 8 4-13-11-8 14-1z"/><path d="m829 423 4 10 11 1-9 6 3 11-9-6-9 6 3-11-9-6 11-1z"/></g>
+  <g transform="translate(605 465)">
+    <ellipse cy="22" rx="24" ry="7" fill="#6fe8d8" opacity=".25"/>
+    <rect x="-17" y="-5" width="34" height="34" rx="13" fill="#b0f3e6" stroke="#f4fff2" stroke-width="2"/>
+    <rect x="-11" y="1" width="22" height="16" rx="7" fill="#74cfc9"/>
+    <circle cx="-4" cy="8" r="2" fill="#e4fff4"/><circle cx="4" cy="8" r="2" fill="#e4fff4"/>
+    <path d="M-5 29v8m10-8v8" stroke="#8edbcc" stroke-width="6" stroke-linecap="round"/>
+    <circle cy="-14" r="5" fill="#ffd97a"/>
+  </g>
+  <g transform="translate(532 350) rotate(20)">
+    <path d="M-5 0 -12-62 12-59 6 0z" fill="#ff927b" opacity=".18"/>
+    <path d="m0-19 15 8 4 13-12 13-17-4-9-12 8-15z" fill="#e98b78" stroke="#ffd2ae" stroke-opacity=".7"/>
+  </g>
+  <rect x="76" y="593" width="1048" height="1" fill="#bdbdff" opacity=".1"/>
+  <text x="600" y="644" text-anchor="middle" fill="#a09eb8" font-family="Arial,sans-serif" font-size="13">Screenshot placeholder · Replace with your own gameplay capture</text>
+</svg>
+
